@@ -22,6 +22,6 @@ Everything lives in `tictactoe.html`:
 
 ## Git & GitHub
 
-- Remote: `https://github.com/tmott-oss/claude-code-test` (or similar — confirm after repo creation)
+- Remote: `https://github.com/tmott-oss/claude-code-test`
 - Commit style: imperative subject line, blank line, short body describing what and why
 - Always commit and push after completing a feature or fix
